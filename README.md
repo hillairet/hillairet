@@ -1,5 +1,6 @@
-### Hi there 👋
+![Header image Hi I'm Ant](github-header-image.png)
 
+![Github Trophies](https://github-profile-trophy.vercel.app/?username=hillairet&rank=-C,-B&theme=juicyfresh&no-frame=true)
 <!--
 **hillairet/hillairet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
